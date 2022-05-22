@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "express": "^4.18.1",
+    "mongoose": "^6.3.2"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "pizza-hunt",
+  "description": "",
+  "version": "1.0.0",
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rharris529/Pizza-Hunt.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rharris529/Pizza-Hunt/issues"
+  },
+  "homepage": "https://github.com/rharris529/Pizza-Hunt#readme"
+}
